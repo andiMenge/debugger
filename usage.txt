@@ -1,0 +1,5 @@
+-- U S A G E --
+
+- netcat -
+  - check if port is open: "nc -vz <ip/dns> <port>"
+  - scan ports 1-1024: "nc -vz <ip/dns> 1-1024"
